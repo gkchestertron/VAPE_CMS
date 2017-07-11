@@ -1,0 +1,30 @@
+{
+  "name": "vape_cms",
+  "version": "1.0.0",
+  "description": "cms built on the VAPE stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkchestertron/VAPE_CMS.git"
+  },
+  "keywords": [
+    "graphql",
+    "vue.js",
+    "postgraphql",
+    "cms"
+  ],
+  "author": "jff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkchestertron/VAPE_CMS/issues"
+  },
+  "homepage": "https://github.com/gkchestertron/VAPE_CMS#readme",
+  "dependencies": {
+    "pgmigrate": "^4.0.0",
+    "postgraphql": "^3.2.0",
+    "vue": "^2.3.4"
+  }
+}
